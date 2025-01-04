@@ -1,4 +1,4 @@
-# Dashboard for school management
+# Dashboard for school management updated
 
 ## Getting Started
 
